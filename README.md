@@ -140,10 +140,5 @@ Aprender o básico sobre contribuição no GitHub.
 
 ⭐ Adicionando aos favoritos (**star**) 
 
-### Membros da comunidade que já contribuiram:
-<a href="https://github.com/github.com/RobertoBrandaoRJ/dio-lab-open-source/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=github.com/RobertoBrandaoRJ/dio-lab-open-source"/>
-</a>
-
 ##
-<div align="center">Feito por <a href="https://github.com/github.com/RobertoBrandaoRJ">Roberto</a>.</div>
+<div align="center">Feito por <a href="https://github.com/github.com/RobertoBrandaoRJ">Roberto Brandao</a>.</div>
